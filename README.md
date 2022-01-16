@@ -1,6 +1,6 @@
 # Wael K alqawasmi
 i am **electrical eng**  and i work in IT , I graduated from Tafila Technical University with a GPA of  *81*
-.
+. I have a good background about electronics, Smart system , power system , motor driving , IOT and programmed development.
 
 ***
 ![Good developer mindset](https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg)
