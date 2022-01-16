@@ -10,16 +10,16 @@ i am **electrical eng**  and i work in IT , I graduated from Tafila Technical Un
 There are many problems that you may encounter while programming, which makes you very miserable ***so***
 there are a number of tips that you should follow in order to avoid these problems:
 
-1-  make your design systems easy and helpful as possible as  
+1. make your design systems easy and helpful as possible as  
 ***
-2- Understand what you want to design before you  getting start
+2. Understand what you want to design before you  getting start
 ***
-3- Make your code easy and maintainable to modify
+3. Make your code easy and maintainable to modify
 
 ***
-4- If you do something one way in one place, do it that way in every place.
+4. If you do something one way in one place, do it that way in every place.
 ***
-5-Arrange your priorities according to their:
+5.Arrange your priorities according to their:
 * importance 
 * effort
 
